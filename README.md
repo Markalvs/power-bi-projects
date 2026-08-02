@@ -43,10 +43,8 @@ Análise dos Resultados
 
 # Dashboard
 
-> Inserir aqui uma captura do dashboard final.
-
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="images/sales-dashboard.png" width="900">
 </p>
 
 ---
@@ -64,12 +62,6 @@ A preparação dos dados foi realizada utilizando **Power Query**, contemplando 
 - Construção da Tabela Calendário;
 - Carregamento dos dados para o modelo.
 
-> Inserir aqui uma captura do Power Query.
-
-<p align="center">
-  <img src="images/power-query.png" width="900">
-</p>
-
 ---
 
 # Modelagem de Dados
@@ -86,7 +78,7 @@ O modelo contempla:
 > Inserir aqui uma captura da visão Modelo do Power BI.
 
 <p align="center">
-  <img src="images/modelo-relacional.png" width="900">
+  <img src="images/sales-data-model.png" width="900">
 </p>
 
 ---
