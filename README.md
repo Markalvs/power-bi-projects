@@ -75,8 +75,6 @@ O modelo contempla:
 - Tabela Calendário;
 - Chaves de relacionamento.
 
-> Inserir aqui uma captura da visão Modelo do Power BI.
-
 <p align="center">
   <img src="images/sales-data-model.png" width="900">
 </p>
