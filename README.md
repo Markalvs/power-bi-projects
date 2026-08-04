@@ -1,4 +1,4 @@
-# Sales Dashboard
+# Dashboard Vendas
 
 Projeto desenvolvido em **Microsoft Power BI** com o objetivo de demonstrar o fluxo completo de um projeto de **Business Intelligence**, desde a preparação dos dados até a construção de um dashboard interativo para análise de vendas.
 
