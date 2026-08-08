@@ -141,4 +141,4 @@ Demonstrar conhecimentos em Business Intelligence por meio da aplicação de té
 
 **Mark Alves**
 
-Graduando em Engenharia de Produção | Business Intelligence | Power BI
+Graduando em Engenharia de Produção
